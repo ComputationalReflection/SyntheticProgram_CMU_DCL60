@@ -1,0 +1,9 @@
+CMU-DCL60;es.uniovi.reflection.dcl_60.noncompliant.cmu_example.account;;PACKAGE;1 dependency cycle(s) involving package es.uniovi.reflection.dcl_60.noncompliant.cmu_example.account
+CMU-DCL60;es.uniovi.reflection.dcl_60.noncompliant.cmu_example.user;;PACKAGE;1 dependency cycle(s) involving package es.uniovi.reflection.dcl_60.noncompliant.cmu_example.user
+CMU-DCL60;es.uniovi.reflection.dcl_60.noncompliant.depbtw2packages.package1;;PACKAGE;3 dependency cycle(s) involving package es.uniovi.reflection.dcl_60.noncompliant.depbtw2packages.package1
+CMU-DCL60;es.uniovi.reflection.dcl_60.noncompliant.depbtw2packages.package2.subpackage1;;PACKAGE;1 dependency cycle(s) involving package es.uniovi.reflection.dcl_60.noncompliant.depbtw2packages.package2.subpackage1
+CMU-DCL60;es.uniovi.reflection.dcl_60.noncompliant.depbtw2packages.package2.subpackage2;;PACKAGE;1 dependency cycle(s) involving package es.uniovi.reflection.dcl_60.noncompliant.depbtw2packages.package2.subpackage2
+CMU-DCL60;es.uniovi.reflection.dcl_60.noncompliant.depbtw2packages.package2;;PACKAGE;1 dependency cycle(s) involving package es.uniovi.reflection.dcl_60.noncompliant.depbtw2packages.package2
+CMU-DCL60;es.uniovi.reflection.dcl_60.noncompliant.depbtw3packages.package1;;PACKAGE;1 dependency cycle(s) involving package es.uniovi.reflection.dcl_60.noncompliant.depbtw3packages.package1
+CMU-DCL60;es.uniovi.reflection.dcl_60.noncompliant.depbtw3packages.package2;;PACKAGE;1 dependency cycle(s) involving package es.uniovi.reflection.dcl_60.noncompliant.depbtw3packages.package2
+CMU-DCL60;es.uniovi.reflection.dcl_60.noncompliant.depbtw3packages.package3;;PACKAGE;1 dependency cycle(s) involving package es.uniovi.reflection.dcl_60.noncompliant.depbtw3packages.package3
